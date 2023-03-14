@@ -1,0 +1,25 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemche/playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemche/playwrightissues"
+  },
+  "homepage": "https://github.com/hemche/playwright#readme",
+  "dependencies": {
+    "npm-check-updates": "^16.7.12"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
